@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps:
 1.  Clone the repo:
 
 ```sh
-git clone https://github.com/your_username_/Dicee-Challenge---Starting-Files.git
+git clone https://github.com/FiyinfoluwaDav/Dicee-Challenge---Starting-Files.git
 ```
 
 2.  Open the `dicee.html` file in your browser.
